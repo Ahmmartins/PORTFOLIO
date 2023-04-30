@@ -1,0 +1,194 @@
+body{
+    margin: 0;
+    text-align: center;
+    font-family: 'Montserrat',sans-serif;
+  
+  
+  
+  }
+  h1{
+    font-size: 5.625rem;
+    color: #F9E2AF;
+    margin: 80px auto 50px auto;
+    font-family: 'Sacramento', cursive;
+    line-height: 2;
+  
+  }
+  
+  h2{
+    color: #77037B;
+    font-weight: normal;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 2.5rem;
+    padding-bottom: 10px;
+  
+  }
+  
+  h3{
+    color: #F9E2AF;
+    font-family: 'Montserrat', sans-serif;
+  }
+  p{
+    line-height: 2;
+  }
+  
+  hr{
+    border: dotted #6D5D6E;
+    border-bottom: none;
+    width: 4%;
+    margin: 100px auto;
+  
+  }
+  
+  a{
+    font-family: 'Montserrat',sans-serif;
+    margin: 10px 20px;
+    text-decoration: none;
+  
+  }
+  
+  a:hover{
+    color: #FCFFE7;
+  
+  
+  }
+  
+  div{
+    background-color: #009FBD;
+    padding-top: 20px;
+  }
+  
+  
+  
+  .top-container{
+    background-color: #009FBD;
+    position: relative;
+    padding-top: 100px;
+    
+  
+  }
+  .middle-container{
+    padding-bottom:30px;
+  }
+  
+  .middle2container{
+    background-color: #009FBD;
+  
+    padding-top: 20px;
+    padding-bottom: 20px;
+  }
+  .middle2container .project-container{
+    display: flex;
+    position: relative;
+    align-items: center;
+    justify-content: space-around;
+    padding: 20px 0;
+  
+  
+  }
+  .middle2container .project-container .project-1{
+    height: 500px;
+    width: 400px;
+    position: relative;
+  
+  }
+  
+  .states{
+    width: 300px;
+  }
+  
+  .turtlegame{
+    width:300px;
+  
+  }
+  .password{
+    width: 300px;
+  }
+  
+  .bottom-container{
+    padding: 20px;
+    background-color: #F7DB6A;
+  
+  
+  }
+  .top-cloud{
+    position: absolute;
+    right: 50px;;
+    top: 50px;
+  }
+  .buttom-cloud{
+    position: absolute;
+    left: 50px;
+    bottom: 300px;
+  
+  }
+  
+  .skill-row{
+    width: 800px;
+    margin: 100px auto 100px auto;
+    text-align: left;
+    line-height: 2;
+  
+  }
+  .prince{
+    width: 20%;
+    padding-top: 30px;
+  
+  }
+  
+  .skillss{
+    width: 20%;
+    float:left;
+    margin-right: 30px;
+  
+  }
+  .contact-message{
+    width: 40%;
+    margin: 40px auto 60px;
+  }
+  
+  .Copyright{
+    color: #ECF9FF;
+    padding: 20px 0 ;
+  }
+  
+  .data{
+    width: 20%;
+    float: right;
+    margin-left: 30px;
+  }
+  
+  .api{
+    width: 20%;
+    float:left;
+    margin-right: 30px;
+  }
+  .btn {
+    background: #cf3c4d;
+    background-image: -webkit-linear-gradient(top, #cf3c4d, #990005);
+    background-image: -moz-linear-gradient(top, #cf3c4d, #990005);
+    background-image: -ms-linear-gradient(top, #cf3c4d, #990005);
+    background-image: -o-linear-gradient(top, #cf3c4d, #990005);
+    background-image: linear-gradient(to bottom, #cf3c4d, #990005);
+    -webkit-border-radius: 53;
+    -moz-border-radius: 53;
+    border-radius: 53px;
+      font-family: 'Montserrat', sans-serif;
+    color: #f0f0f0;
+    font-size: 20px;
+    padding: 5px 9px 9px 12px;
+    text-decoration: none;
+  }
+  
+  .btn:hover {
+    background: #013f66;
+    transform: scale(1.25);
+    background-image: -webkit-linear-gradient(top, #013f66, #f70000);
+    background-image: -moz-linear-gradient(top, #013f66, #f70000);
+    background-image: -ms-linear-gradient(top, #013f66, #f70000);
+    background-image: -o-linear-gradient(top, #013f66, #f70000);
+    background-image: linear-gradient(to bottom, #013f66, #f70000);
+    text-decoration: none;
+  }
+  © Copyright. 2023. css3buttongenerator.com. All Righ
+  
